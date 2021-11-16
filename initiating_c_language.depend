@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637088718 source:c:\users\joelsena\c_projects\initiating_c_language\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637078789 source:c:\users\joelsena\c_projects\initiating_c_language\soma.c
+	<stdio.h>
+
+1637079513 source:c:\users\joelsena\c_projects\initiating_c_language\sizeof.c
+	<stdio.h>
+
