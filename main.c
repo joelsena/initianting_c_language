@@ -15,5 +15,17 @@ void main() {
     // typesize();
 
     // Arquivo especificadores_de_conversão.c
-    spec_conversor();
+    // spec_conversor();
+
+    // Arquivo sequencias_de_escape.c
+    // sequences();
+
+    // Arquivo scan_keyboard_data.c
+    // keyboard_data(); // scanf[
+
+    // Arquivo operadores_aritmeticos.c
+    // operadores();
+
+    // Arquivo calculadora.c
+    calculadora();
 }

@@ -31,7 +31,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="especificadores_de_conversao.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sizeof.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="soma.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
