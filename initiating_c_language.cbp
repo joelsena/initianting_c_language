@@ -31,10 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="calculadora.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="especificadores_de_conversao.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="function_calculate.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operadores_aritmeticos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scan_keyboard_data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sequencias_de_escape.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="sizeof.c">

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1637173791 source:c:\users\joelsena\c_projects\initiating_c_language\main.c
+1637263214 source:c:\users\joelsena\c_projects\initiating_c_language\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -21,9 +21,17 @@
 1637173298 source:c:\users\joelsena\c_projects\initiating_c_language\operadores_aritmeticos.c
 	<stdio.h>
 
-1637176738 source:c:\users\joelsena\c_projects\initiating_c_language\calculadora.c
+1637176915 source:c:\users\joelsena\c_projects\initiating_c_language\calculadora.c
 	<stdio.h>
 
-1637175836 source:c:\users\joelsena\c_projects\initiating_c_language\function_calculate.c
+1637176902 source:c:\users\joelsena\c_projects\initiating_c_language\function_calculate.c
 	<math.h>
+
+1637255909 source:c:\users\joelsena\c_projects\initiating_c_language\estrutura_de_repeticao.c
+	<stdio.h>
+	<stdlib.h>
+
+1637263468 source:c:\users\joelsena\c_projects\initiating_c_language\bubblesort.c
+	<stdio.h>
+	<locale.h>
 

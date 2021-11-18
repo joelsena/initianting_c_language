@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Funções precisam ser declaradas antes do main.
+// Ex: void escrevaNome(); // E, posteriormente, eu posso escrever o código dessa função. // Protótipo de função
 // Pincipal função na linguagem C, que vai ser necessária na hora da compilação.
 void main() {
     // typedef enum {true=1, false=0} test;
@@ -27,5 +29,11 @@ void main() {
     // operadores();
 
     // Arquivo calculadora.c
-    calculadora();
+    // calculadora();
+
+    // Arquivo estrutura de repetição.c
+    // repeat();
+
+    // Arquivo bubblesort.c
+    test_bubblesort();
 }
