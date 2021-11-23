@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1637263214 source:c:\users\joelsena\c_projects\initiating_c_language\main.c
+1637684244 source:c:\users\joelsena\c_projects\initiating_c_language\main.c
 	<stdio.h>
 	<stdlib.h>
+	"calculos.h"
 
 1637078789 source:c:\users\joelsena\c_projects\initiating_c_language\soma.c
 	<stdio.h>
@@ -31,7 +32,25 @@
 	<stdio.h>
 	<stdlib.h>
 
-1637263468 source:c:\users\joelsena\c_projects\initiating_c_language\bubblesort.c
+1637263716 source:c:\users\joelsena\c_projects\initiating_c_language\bubblesort.c
 	<stdio.h>
 	<locale.h>
+
+1637342421 source:c:\users\joelsena\c_projects\initiating_c_language\matriz.c
+	<stdio.h>
+
+1637343788 source:c:\users\joelsena\c_projects\initiating_c_language\calculos.c
+	"calculos.h"
+
+1637343505 c:\users\joelsena\c_projects\initiating_c_language\calculos.h
+
+1637351573 source:c:\users\joelsena\c_projects\initiating_c_language\indirecao_multipla.c
+	<stdio.h>
+
+1637351252 source:c:\users\joelsena\c_projects\initiating_c_language\ponteiros.c
+	<stdio.h>
+
+1637353161 source:c:\users\joelsena\c_projects\initiating_c_language\estruturas.c
+	<stdio.h>
+	<stdlib.h>
 

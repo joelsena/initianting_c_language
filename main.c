@@ -2,11 +2,12 @@
 // .h => header(cabeçalho).
 #include <stdio.h>
 #include <stdlib.h>
+#include "calculos.h"
 
 // Funções precisam ser declaradas antes do main.
 // Ex: void escrevaNome(); // E, posteriormente, eu posso escrever o código dessa função. // Protótipo de função
 // Pincipal função na linguagem C, que vai ser necessária na hora da compilação.
-void main() {
+int main() {
     // typedef enum {true=1, false=0} test;
     // printf(test);
 
@@ -35,5 +36,33 @@ void main() {
     // repeat();
 
     // Arquivo bubblesort.c
-    test_bubblesort();
+    // test_bubblesort();
+
+    // Arquivo matriz.c
+    // matriz();
+
+    // ======== Headers ============
+    // Novamente, incluimos o custom header no arquivo desejado e iremos utilizar suas funções como qualquer outra lib
+    /* printf("Usando headers\n");
+    int y = 5;
+    int quad = quadrado(y);
+    int cub = cubo(y);
+
+    printf("Quadrado de %d: %d\n", y, quad);
+    printf("Cubo de %d: %d\n", y, cub);
+    printf("Valor da constante PI: %f\n", _PI);
+
+    // Arquivo ponteiros.c
+    point();
+
+    return 0; */
+
+    // Arquivo indirecal_multipla.c
+    // indirecao();
+
+    // Arquivo estruturas.c
+    // estruturas();
+
+    // Arquivo arvores_binarias.c
+    arvores();
 }

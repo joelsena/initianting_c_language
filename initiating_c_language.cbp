@@ -31,19 +31,41 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="bubblesort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="calculadora.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="calculos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calculos.h" />
 		<Unit filename="especificadores_de_conversao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="estrutura_de_repeticao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="estruturas.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="function_calculate.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="indirecao_multipla.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="matriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="operadores_aritmeticos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ponteiros.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="scan_keyboard_data.c">
